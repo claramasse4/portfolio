@@ -1,4 +1,5 @@
-const API = "http://127.0.0.1:8000/api";
+//const API = "http://127.0.0.1:8000/api";
+const API = "https://portfolio-three-orpin-5jaah5h9zp.vercel.app/api";
 const SLUG = "clara-masse";
 
 // Valeurs de `type` considérées comme bénévolat / engagement associatif (ajoute les tiennes)
